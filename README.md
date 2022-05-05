@@ -41,24 +41,7 @@ Creation of this app used following technologies. (see report for detailed descr
 
 The app looks like the following screenshot,
 
-![image](https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png)
+<!-- ![image](https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png) -->
+<img src="https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png" height="1000">
 
-.
-.
-.
-.
-
-## How to run webapp using Docker in your system?
-```sh
-1. install docker in your system, and login to it, and run the docker desktop before continuing.
-2. Clone the repo using the following command
-git clone https://github.com/garvitchughiitj/M20CS018.git
-3. Change directory to the folder.
-cd M20CS018
-4. Build the docker image using, 
-docker build . -t m20cs018 
-5. Run the image
-docker run -it -p 8000:80 m20cs018
-6. Access the webapp on 
-http://localhost:8000/gg/
-```
+## Thankyou
