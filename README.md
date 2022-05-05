@@ -41,7 +41,7 @@ Creation of this app used following technologies. (see report for detailed descr
 
 The app looks like the following screenshot,
 
-![image](https://user-images.githubusercontent.com/80277381/131481329-503a4b6f-09ff-4816-9041-ba481aa7ef8e.png)
+![image](https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png)
 
 .
 .
