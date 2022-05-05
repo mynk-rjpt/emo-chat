@@ -1,4 +1,4 @@
-# Course Name 
+# Course Name : Mobile and Pervasive Computing (CSL7460)
 # (Made by: Mayank Singh Rajput (B19CSE054) & Mohit Ahirwar (B19CSE055)
 .
 .
@@ -43,5 +43,6 @@ The app looks like the following screenshot,
 
 <!-- ![image](https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png) -->
 <img src="https://github.com/mynk-rjpt/emo-chat/blob/main/screenshots/Chats.png" height="1000">
+### Please refer to the project report (project_report.pdf) for detailed description, procedure, workflow of the project.
 
 ## Thankyou
