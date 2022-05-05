@@ -272,8 +272,6 @@ export default function Chat() {
                   setSeletedImageView(props.currentMessage.image);
                 }}
               >
-
-
                 <Image
                   resizeMode="contain"
                   style={{
